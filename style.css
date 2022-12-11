@@ -1,0 +1,155 @@
+.hatch{
+    height: 200px;
+    width: 250px;
+    background-color: coral;
+
+    animation: ale 27s linear;
+}
+@keyframes ale{
+    0%{transform: translateX(0px)}
+    50%{transform: translateX(1500px)}
+    100%{transform: translateX(0px)}
+}
+.bme{
+    width: 25px;
+	height: 5px;
+	background: black;
+    position: absolute;
+    top: 120px;
+    left: 65px;
+}
+.blm{
+    width: 25px;
+	height: 5px;
+	background: black;
+    position: absolute;
+    top: 110px;
+    left: 65px;
+}
+.ayue{
+    width: 10px;
+    height: 10px;
+    background-color: greenyellow;
+    position: absolute;
+    animation: swag 1s linear infinite;
+}
+@keyframes swag{
+    0%{width: 10px;}
+    
+    100%{width: 800px;}
+}
+.ayuee{
+    width: 10px;
+    height: 10px;
+    background-color: greenyellow;
+    position: absolute;
+ 
+    top: 500px;
+    transform: rotate(-45deg);
+    animation: swag 1s linear infinite;
+}
+.ayueee{
+    width: 10px;
+    height: 10px;
+    background-color: greenyellow;
+    position: absolute;
+    top: 800px;
+    animation: swag 1s linear infinite;
+}
+.kerambvit{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 1600px;
+    top: 500px;
+    animation: sos 1s infinite linear;
+}
+@keyframes sos{
+    0%{}
+    50%{height: 0;width: 0;}
+    100%{}
+}
+.free{
+    width: 200px;
+    height: 600px;
+    left: 400px;
+    top: 400px;
+}
+.re{
+    width: 120px;
+	height: 60px;
+	background: gold;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+}
+.she{
+    width: 90px;
+	height: 90px;
+	background: black;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    position: absolute;
+    top: 100px;
+    left: 160px;
+}
+.sxe{
+    width: 55px;
+	height: 55px;
+	background: black;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    position: absolute;
+    top: 135px;
+    left: 65px;
+}
+.smm{
+    width: 70px;
+	height: 70px;
+	background: gray;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    position: absolute;
+    top: 110px;
+    left: 170px;
+}
+.snn{
+    width: 35px;
+	height: 35px;
+	background: gray;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+    position: absolute;
+    top: 145px;
+    left: 75px;
+}
+.bpe{
+    width: 70px;
+	height: 50px;
+	background: gold;
+    position: absolute;
+    top: 45px;
+    left: 140px;
+}
+.nne{
+    width: 60px;
+	height: 40px;
+	background: cyan;
+    position: absolute;
+    top: 50px;
+    left: 140px;
+}
+.ggm{
+    width: 50px; 
+  height: 100px;
+  border: 2px solid;
+  background: gray;
+  border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+  position: absolute;
+  top: 70px;
+  left: 20px;
+}
